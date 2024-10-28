@@ -6,6 +6,10 @@
 
 Quickly and easily obtain auth tokens to authenticate with Microsoft/Xbox/Minecraft/Mojang
 
+## Fork Changes
+Password login through sisu support
+New titles (XboxAppPC, XboxAppMobile)
+
 ## Installation
 ```shell
 npm install prismarine-auth
